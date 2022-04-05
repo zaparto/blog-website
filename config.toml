@@ -1,4 +1,4 @@
-baseURL = 'www.zaparto.com/'
+baseURL = 'https://www.zaparto.com/'
 languageCode = 'en-us'
 title = 'Personal Blog'
 theme = 'sam'
