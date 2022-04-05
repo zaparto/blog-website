@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'www.zaparto.com/'
 languageCode = 'en-us'
 title = 'Personal Blog'
 theme = 'sam'
@@ -6,4 +6,3 @@ theme = 'sam'
 [[params.mainMenu]]
     link = "about"
     text = "about"
-
