@@ -1,4 +1,4 @@
-baseURL = 'www.zaparto.com/'
+baseURL = 'https://zaparto.github.io/blog-website/'
 languageCode = 'en-us'
 title = 'Personal Blog'
 theme = 'sam'
