@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Personal Blog'
+theme = 'sam'
+
+[[params.mainMenu]]
+    link = "about"
+    text = "about"
+
